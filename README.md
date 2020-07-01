@@ -36,7 +36,7 @@ for deployment.
 
 Plugin version|GitBucket version
 :---|:---
-1.0.x |4.32.x -
+0.1.x |4.32.x -
 
 ## Reference
 

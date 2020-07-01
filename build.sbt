@@ -1,5 +1,5 @@
 name := "gitbucket-3dmol-plugin"
 organization := "io.github.gitbucket"
-version := "1.0.0"
+version := "0.1.0"
 scalaVersion := "2.13.0"
 gitbucketVersion := "4.32.0"
