@@ -1,4 +1,4 @@
-# gitbucket-3dmol-plugin
+# gitbucket-3dmol-plugin [alpha ver.]
 
 [![Build Status](https://travis-ci.org/onukura/gitbucket-3dmol-plugin.svg?branch=master)](https://travis-ci.org/onukura/gitbucket-3dmol-plugin)
 
