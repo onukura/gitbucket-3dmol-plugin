@@ -7,7 +7,7 @@ Based on [3DMol.js](https://3dmol.csb.pitt.edu/index.html).
 
 ## Screenshot
 
-![screenshot](https://github.com/onukura/gitbucket-3dmol-plugin/blob/assets/screenshot.png?raw=true)
+![screenshot](https://github.com/onukura/gitbucket-3dmol-plugin/blob/assets/screenshot.gif?raw=true)
 
 ## Install
 
