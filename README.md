@@ -1,6 +1,7 @@
 # gitbucket-3dmol-plugin
 
 [![Build Status](https://travis-ci.org/onukura/gitbucket-3dmol-plugin.svg?branch=master)](https://travis-ci.org/onukura/gitbucket-3dmol-plugin)
+![Scala CI](https://github.com/onukura/gitbucket-3dmol-plugin/workflows/Scala%20CI/badge.svg?branch=master)
 
 A GitBucket plugin for rendering molecular.  
 Based on [3DMol.js](https://3dmol.csb.pitt.edu/index.html).
